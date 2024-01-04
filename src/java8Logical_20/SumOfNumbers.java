@@ -2,6 +2,8 @@ package java8Logical_20;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class SumOfNumbers {
 
@@ -11,5 +13,15 @@ public class SumOfNumbers {
 
 		Integer sum = list.stream().reduce((a, b) -> a + b).get();
 		System.out.println("Sum of the elements: "+sum);
+		
+		
+		
+		//Reverse String example
+		
+		String str="Atul";
+		
+		String collect = Stream.of(str).map(e->new StringBuffer(e).reverse()).collect(Collectors.joining());
+		
+		System.out.println(collect);
 	}
 }

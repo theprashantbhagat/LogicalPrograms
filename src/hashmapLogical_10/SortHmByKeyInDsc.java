@@ -11,7 +11,7 @@ public class SortHmByKeyInDsc {
 		HashMap<String, Integer> hm = new HashMap<>();
 		hm.put("prash", 45);
 		hm.put("kun", 18);
-		hm.put("man", 34);
+		hm.put("amit", 34);
 		hm.put("rah", 12);
 
 		System.out.println(hm);
