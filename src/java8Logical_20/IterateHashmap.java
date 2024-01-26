@@ -13,5 +13,8 @@ public class IterateHashmap {
 		map.put("four", 4);
 		
 		map.forEach((a,b)-> System.out.println(a+" "+b));
+	
+	
+	
 	}
 }

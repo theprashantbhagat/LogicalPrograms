@@ -9,7 +9,7 @@ public class SwapTwoString {
 
 		System.out.println("before swapping: " + a + " " + b);
 
-		a = a + b;
+		a = a + b; //HelloWorld
 		System.out.println(a);
 
 		b = a.substring(0, a.length() - b.length());

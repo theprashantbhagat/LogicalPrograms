@@ -1,11 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c67f31b-9bbe-46f7-af6d-7a4d1c00dfb6" name="Changes" comment="" />
+    <list default="true" id="1c67f31b-9bbe-46f7-af6d-7a4d1c00dfb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/factoryDesignPattern/DeveloperClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/factoryDesignPattern/DeveloperClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hashmapLogical_10/CountWordOccurances.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hashmapLogical_10/CountWordOccurances.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hashmapLogical_10/FindDuplicatesFrmArrayUsingMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hashmapLogical_10/FindDuplicatesFrmArrayUsingMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hashmapLogical_10/SortHmByKeyInDsc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hashmapLogical_10/SortHmByKeyInDsc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hashmapLogical_10/SortHmByKeyInNaturalO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hashmapLogical_10/SortHmByKeyInNaturalO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/CreateThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/CreateThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/FindAverageOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/FindAverageOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/FindDuplicateFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/FindDuplicateFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/FindEleFrmArrayStartsWith.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/FindEleFrmArrayStartsWith.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/FindFirstNonRepeatEleFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/FindFirstNonRepeatEleFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/FindLargestNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/FindLargestNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/FindMaxAndMinFrmArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/FindMaxAndMinFrmArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/FindVowelCountFrmString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/FindVowelCountFrmString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/FlatmapExmpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/FlatmapExmpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/IterateHashmap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/IterateHashmap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/OddEvenFrmList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/OddEvenFrmList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/RemoveDuplicatesFrmList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/RemoveDuplicatesFrmList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/SortHashmapExmpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/SortHashmapExmpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Logical_20/SumOfNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Logical_20/SumOfNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/ArmStrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/ArmStrongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/CommonElementsFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/CommonElementsFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/CountEvenAndOddDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/CountEvenAndOddDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/CountSumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/CountSumOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/CountWordsFrmString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/CountWordsFrmString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/EvenOddFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/EvenOddFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/FactorsOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/FactorsOfNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/FibnocciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/FibnocciSeries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/LargestOfThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/LargestOfThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/LinearSearchInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/LinearSearchInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/MaxAndMinElementFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/MaxAndMinElementFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/MissingNumInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/MissingNumInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/PalindromNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/PalindromNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/PalindromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/PalindromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/ReverseWordFrmString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/ReverseWordFrmString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/RotateArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/RotateArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/SecondLargestFrmArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/SecondLargestFrmArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/SwapTwoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/SwapTwoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/loopAndString_30/SwappingTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/loopAndString_30/SwappingTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/randomInInterview/StudentSortExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/randomInInterview/StudentSortExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8Logical_20/FindDuplicateFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8Logical_20/FindDuplicateFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8Logical_20/FindFirstNonRepeatEleFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8Logical_20/FindFirstNonRepeatEleFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8Logical_20/FlatmapExmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8Logical_20/FlatmapExmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8Logical_20/IterateHashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8Logical_20/IterateHashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopAndString_30/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopAndString_30/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loopAndString_30/SwapTwoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loopAndString_30/SwapTwoString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/randomInInterview/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/randomInInterview/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Yt3kQX9j3SsAuxKxxWR4zFouqD" />
   <component name="ProjectViewState">
@@ -16,9 +77,43 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/prashantBhagat/JavaDevelopement_08/JavaDevelopement_08/Java_8_Workspace/prashant"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.CreateThread">
+    <configuration name="ConvertObjectToMap" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Logical_20.ConvertObjectToMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Logical_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="java8Logical_20.CreateThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Logical_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreateThread" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -24,6 +24,7 @@ class Student implements Comparable<Student> {
 		}
 		//if names are same then sort using age in descending
 		return Integer.compare(o.age, this.age);
+		//return o.age - this.age;
 	}
 
     
